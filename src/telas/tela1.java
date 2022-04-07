@@ -122,7 +122,7 @@ public class tela1 extends javax.swing.JFrame {
        txtArea.setText("O salario do professor nivel 1 é R$ " +n1 );
        }
        else if (nivel==2){
-       double valor2 = 0.68;
+       double valor2 = 0.68333;
             double n2 = minutos*valor2;
             txtArea.setText("O salario do professor nivel 1 é R$ "+n2);
        }
